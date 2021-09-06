@@ -9,7 +9,7 @@ Download Repo and run the file in ./lib
 - Data extraction for valuable analysis
 - Automatic template-fitted file creation
 
-OUTPUT
+OUTPUT TO CONSOLE
 ```
 NAME | ZIPCODE | DAY OF REGISTERING | HOUR OF REGISTERING
 Alice   84652           Wed                 18:00
